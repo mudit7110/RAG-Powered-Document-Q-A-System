@@ -1,0 +1,1 @@
+pip install streamlit langchain langchain-community langchain-text-splitters faiss-cpu sentence-transformers pypdf python-docx pandas huggingface-hub openai langchain-openai
