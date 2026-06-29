@@ -1,1 +1,17 @@
-pip install streamlit langchain langchain-community langchain-text-splitters faiss-cpu sentence-transformers pypdf python-docx pandas huggingface-hub openai langchain-openai
+streamlit>=1.42
+
+chromadb>=0.6.0
+
+sentence-transformers>=3.2.0
+
+transformers
+torch
+
+pypdf
+python-docx
+
+openai>=1.60
+
+ollama>=0.4.7
+
+python-dotenv
