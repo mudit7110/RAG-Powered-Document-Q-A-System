@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Data
+data/docs/*
+!data/docs/.gitkeep
+
+data/chroma/*
+!data/chroma/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
